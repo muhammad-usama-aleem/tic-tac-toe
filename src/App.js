@@ -2,7 +2,7 @@ import React from "react";
 import Board from "./Board";
 import "./App.css";
 
-class Game extends React.Component {
+class App extends React.Component {
   render() {
     return (
       <div className="game">
@@ -20,4 +20,4 @@ class Game extends React.Component {
 
 // ========================================
 
-export default Game;
+export default App;
